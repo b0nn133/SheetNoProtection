@@ -1,6 +1,9 @@
-# 🔓 SheetNoProtection
+<p align="center">
+   <img src="./screenshots/main.png" alt="Screenshot" width="256"></img>
+   <h1>🔓 SheetNoProtection</h1>
+</p>
 
-[![License: GPL v3](https://img.shields.io)](./LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)](./LICENSE)
 
 **SheetNoProtection** is a lightweight C# WinForms utility to instantly remove protection from Excel Worksheets.
 
